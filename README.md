@@ -1,5 +1,4 @@
-# Causal Macrovariable Detection through Neural Networks
-Code for master thesis, September 2020
+# Encoding Causal Macrovariables
 
 ## Data
 - Natural climate data ('El Nino')
