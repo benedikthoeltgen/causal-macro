@@ -5,7 +5,7 @@
 - Self-generated data ('Simulated')
 
 ## Experiments
-1. Detecting macrovariables through the Variational Causal Encoder (VCE)
+1. Detecting macrovariables through the Causal Autoencoder (in the code termed VCE)
 2. Transforming detected variables through double VAE and analysing causal relationships through additive noise model (ANM)
 
 ## Repo Structure
