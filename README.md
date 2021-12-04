@@ -1,5 +1,7 @@
 # Encoding Causal Macrovariables
 
+This repository contains the code for [Encoding Causal Macrovariables](https://arxiv.org/abs/2111.14724).
+
 ## Data
 - Natural climate data ('El Nino')
 - Self-generated data ('Simulated')
